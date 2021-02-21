@@ -1,8 +1,8 @@
-# GUI Password-Generator - 
+# GUI Password-Generator
 
 Python 3, Tkinter, slide bar and copy button without Pyperclip library.
 
-![print](\\img\\app.JPG)
+![print](https://github.com/mabittar/pass_gen/blob/master/img/app.JPG?raw=true)
 
 US:
 
